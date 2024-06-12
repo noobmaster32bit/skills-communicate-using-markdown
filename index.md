@@ -12,3 +12,8 @@ Headings demo
 var name="Amit";
 console.log("My name is", name);
 ```
+
+- [ ] Turn on github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+      
